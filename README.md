@@ -17,8 +17,8 @@ Ejemplo práctico del efecto de las comisiones de administración y el impuesto 
 | Concepto | FPV (3.5%) | ETFs (0.05%) |
 |----------|------------|--------------|
 | Total aportado | $180.000.000 | $180.000.000 |
-| Valor final | ~$476 millones | ~$665 millones |
-| Ganancias | ~$297 millones | ~$485 millones |
+| Valor final | aprox. $476 millones | aprox. $665 millones |
+| Ganancias | aprox. $297 millones | aprox. $485 millones |
 | Diferencia | — | **+$189 millones** |
 
 La comisión del 3.5% se come aproximadamente el **39% de las ganancias potenciales**.
@@ -35,11 +35,11 @@ La comisión del 3.5% se come aproximadamente el **39% de las ganancias potencia
 
 | Escenario | Valor final | Impuesto sobre ganancias | Valor neto final |
 |-----------|-------------|---------------------------|------------------|
-| FPV (3.5% comisión) | ~$476 millones | $0 (si cumple condiciones) | **~$476 millones** |
-| eToro (0.05% comisión) | ~$665 millones | ~$73 millones (15%) | **~$592 millones** |
-| BVC (si aplica Art. 36-1) | ~$665 millones | $0 | **~$665 millones** |
+| FPV (3.5% comisión) | aprox. $476 millones | $0 (si cumple condiciones) | **aprox. $476 millones** |
+| eToro (0.05% comisión) | aprox. $665 millones | aprox. $73 millones (15%) | **aprox. $592 millones** |
+| BVC (si aplica Art. 36-1) | aprox. $665 millones | $0 | **aprox. $665 millones** |
 
-Incluso pagando el 15% de ganancia ocasional en eToro, el resultado neto (~$592 millones) sigue siendo ~24% superior al FPV (~$476 millones). La diferencia es de unos **$116 millones** a favor de la autoinversión de bajo costo.
+Incluso pagando el 15% de ganancia ocasional en eToro, el resultado neto (aprox. $592 millones) sigue siendo alrededor del **24% superior** al FPV (aprox. $476 millones). La diferencia es de unos **$116 millones** a favor de la autoinversión de bajo costo.
 
 ## Resumen práctico
 
@@ -47,6 +47,7 @@ Incluso pagando el 15% de ganancia ocasional en eToro, el resultado neto (~$592 
 - El beneficio de no pagar ganancia ocasional en el FPV (o en la BVC) no alcanza a compensar ese costo de comisión tan alto.
 - Entre eToro (con 15%) y BVC (potencialmente exento), la BVC es más eficiente tributariamente para acciones colombianas, siempre que no superes el límite del 3%.
 - Cuando el cupo de renta exenta ya está lleno, el beneficio adicional de meter más dinero al FPV es limitado, mientras que el costo de la comisión es permanente.
+- Además, existe un **costo de oportunidad** por el lockup: para conservar la exención debes mantener el capital al menos 10 años (o cumplir condiciones específicas). Si necesitas liquidez antes, pierdes el beneficio tributario y puedes enfrentar retención. En una inversión propia (BVC o ETFs) puedes rebalancear o retirar sin esa restricción.
 
 **Conclusión**: incluso considerando el 15% de ganancia ocasional en eToro, sigue siendo más conveniente invertir por tu cuenta en ETFs de bajo costo que pagar 3.5% de comisión en un FPV, a menos que la comisión real de tu fondo sea significativamente más baja (idealmente ≤ 1.5–2%).
 
