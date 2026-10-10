@@ -66,6 +66,34 @@ Incluso pagando el 15% de ganancia ocasional en eToro, el resultado neto (aprox.
 
 **Conclusión**: incluso considerando el 15% de ganancia ocasional en eToro, sigue siendo más conveniente invertir por tu cuenta en ETFs de bajo costo que pagar 3.5% de comisión en un FPV, a menos que la comisión real de tu fondo sea significativamente más baja (idealmente ≤ 1.5–2%).
 
+## Apéndice: Costos de operación en la BVC
+
+En la Bolsa de Valores de Colombia existe un costo por cada operación de compra de acciones o ETFs (aprox. $15.000 por compra).
+
+Si se compran 4 ETFs cada mes con un aporte total de $1.000.000:
+- Costo de operaciones: **$60.000 mensuales**
+- Aporte efectivo al portafolio: **$940.000**
+
+### Impacto a 15 años
+
+| Escenario | Aporte efectivo mensual | Valor final neto |
+|-----------|-------------------------|------------------|
+| BVC sin costos de operación | $1.000.000 | aprox. $665 millones |
+| **BVC con costos de operación** | **$940.000** | **aprox. $625 millones** |
+
+El costo de $60.000 mensuales reduce el valor final en aproximadamente **$40 millones**. Incluso con este costo, la BVC sigue siendo superior al FPV y competitiva frente a eToro.
+
+## Disclaimer: Retiro escalonado y ganancia ocasional
+
+Esta simulación aplica el 15% de ganancia ocasional sobre **todas las ganancias** al final del horizonte (liquidación total). 
+
+En un plan de retiro real donde solo se retira el **4-5% anual** del portafolio:
+- El impuesto del 15% se aplica únicamente sobre la **ganancia realizada** de cada retiro anual.
+- No se paga de golpe sobre el patrimonio total.
+- El impacto fiscal es significativamente menor y se distribuye en el tiempo.
+
+Por tanto, el valor neto efectivo en eToro bajo un esquema de retiro gradual es **mayor** que el mostrado en la tabla de liquidación total.
+
 ## Cómo usar
 
 1. Clona el repositorio.
