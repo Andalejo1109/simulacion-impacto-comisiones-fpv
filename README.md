@@ -2,6 +2,8 @@
 
 Ejemplo práctico del efecto de las comisiones de administración y el impuesto a la ganancia ocasional en una inversión a largo plazo.
 
+> **Disclaimer**: Esta simulación asume que los tres vehículos (FPV, eToro y BVC) invierten en el **mismo tipo de activo subyacente**: ETFs globales de bajo costo. La diferencia principal analizada es el costo de comisión y el tratamiento tributario al retirar, no la rentabilidad bruta del portafolio.
+
 ## Escenario
 
 | Parámetro | Valor |
