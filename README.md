@@ -17,6 +17,16 @@ Ejemplo práctico del efecto de las comisiones de administración y el impuesto 
 > **Nota sobre la rentabilidad**: El 15% bruto anual usado en esta simulación es conservador. El portafolio real en eToro ha obtenido una rentabilidad promedio de **23.5% anual** en los últimos 4 años.  
 > Perfil: https://www.etoro.com/people/andalejo1109
 
+## Cómo se cobra la comisión del FPV
+
+La comisión del 3.5% se cobra sobre el **saldo** (activos bajo administración), no sobre el aporte ni sobre la rentabilidad.
+
+- Se liquida diariamente sobre el saldo del día anterior.
+- Ejemplo: con un saldo de $100 millones y comisión del 3.5% EA, el costo anual aproximado es de $3.5 millones (antes del crecimiento del saldo).
+- No es un cargo único al aportar ni un porcentaje de la ganancia.
+
+Esto hace que el impacto sea fuerte a largo plazo: el porcentaje se resta del saldo todos los años, gane o pierda el fondo.
+
 ## Resultados brutos (impacto de las comisiones)
 
 | Concepto | FPV (3.5%) | ETFs (0.05%) |
