@@ -12,6 +12,17 @@ Ejemplo práctico del efecto de las comisiones de administración y el impuesto 
 | Comisión FPV | 3.5% anual |
 | Comisión ETFs | 0.05% anual |
 
+## Resultados brutos (impacto de las comisiones)
+
+| Concepto | FPV (3.5%) | ETFs (0.05%) |
+|----------|------------|--------------|
+| Total aportado | $180.000.000 | $180.000.000 |
+| Valor final | ~$476 millones | ~$665 millones |
+| Ganancias | ~$297 millones | ~$485 millones |
+| Diferencia | — | **+$189 millones** |
+
+La comisión del 3.5% se come aproximadamente el **39% de las ganancias potenciales**.
+
 ## Tratamiento tributario de las ganancias al retirar
 
 | Vehículo | Tratamiento de las ganancias al retirar / vender | Condición |
@@ -20,7 +31,7 @@ Ejemplo práctico del efecto de las comisiones de administración y el impuesto 
 | **BVC** (acciones listadas) | Exento (no es renta ni ganancia ocasional) | Si no vendes más del 3% de las acciones en circulación de esa sociedad en el año (Art. 36-1 ET). Para un inversionista normal, casi siempre se cumple. |
 | **eToro / extranjero** | Ganancia ocasional al 15% | Si se mantiene ≥ 2 años y se considera activo fijo. Si se vende antes de 2 años, puede ser renta ordinaria (hasta 39%). |
 
-## Impacto en el escenario de 15 años
+## Impacto neto al retiro (incluyendo impuestos)
 
 | Escenario | Valor final | Impuesto sobre ganancias | Valor neto final |
 |-----------|-------------|---------------------------|------------------|
@@ -43,7 +54,7 @@ Incluso pagando el 15% de ganancia ocasional en eToro, el resultado neto (~$592 
 
 1. Clona el repositorio.
 2. Abre `simulacion_comisiones.ipynb` en Jupyter o Google Colab.
-3. Ejecuta las celdas para ver los gráficos y tablas (incluye gráfico de barras del valor neto final).
+3. Ejecuta las celdas para ver los gráficos y tablas.
 
 ---
 
