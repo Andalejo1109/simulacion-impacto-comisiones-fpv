@@ -14,6 +14,8 @@ Ejemplo práctico del efecto de las comisiones de administración y el impuesto 
 | Comisión FPV | 3.5% anual |
 | Comisión ETFs | 0.05% anual |
 
+> **Nota sobre la rentabilidad**: El 15% bruto anual usado en esta simulación es conservador. El portafolio real en eToro ([@Andalejo1109](https://www.etoro.com/people/andalejo1109)) ha obtenido una rentabilidad promedio de **23.5% anual** en los últimos 4 años.
+
 ## Resultados brutos (impacto de las comisiones)
 
 | Concepto | FPV (3.5%) | ETFs (0.05%) |
