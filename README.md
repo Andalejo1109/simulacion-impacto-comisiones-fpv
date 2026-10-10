@@ -26,7 +26,7 @@ La comisión del 3.5% se come aproximadamente el **39% de las ganancias potencia
 ## Tratamiento tributario de las ganancias al retirar
 
 | Vehículo | Tratamiento de las ganancias al retirar / vender | Condición |
-|----------|--------------------------------------------------|
+|----------|--------------------------------------------------|-----------|
 | **FPV** | Exento (ni capital ni rendimientos) | Si cumples 10 años, pensión, vivienda, etc. |
 | **BVC** (acciones listadas) | Exento (no es renta ni ganancia ocasional) | Si no vendes más del 3% de las acciones en circulación de esa sociedad en el año (Art. 36-1 ET). Para un inversionista normal, casi siempre se cumple. |
 | **eToro / extranjero** | Ganancia ocasional al 15% | Si se mantiene ≥ 2 años y se considera activo fijo. Si se vende antes de 2 años, puede ser renta ordinaria (hasta 39%). |
